@@ -10,3 +10,15 @@ c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\
 c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.dll
 c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.pdb
 C:\Users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.csprojResolveAssemblyReference.cache
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.deps.json
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.runtimeconfig.json
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.runtimeconfig.dev.json
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.dll
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.pdb
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.csprojResolveAssemblyReference.cache
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.Entidades.Mensagens.Mensagem.resources
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.Entidades.Mensagens.Termo.resources
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.csproj.GenerateResource.Cache
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.AssemblyInfo.cs
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.dll
+C:\Users\willian.kirsch\Source\Repos\BaseDotNetCoreEntity\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.pdb
