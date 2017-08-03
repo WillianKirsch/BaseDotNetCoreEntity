@@ -1,0 +1,12 @@
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.deps.json
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.runtimeconfig.json
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.runtimeconfig.dev.json
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.Entidades.Mensagens.Mensagem.resources
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.Entidades.Mensagens.Termo.resources
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.csproj.GenerateResource.Cache
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.AssemblyInfo.cs
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.dll
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\bin\Debug\netcoreapp1.1\Produtos.pdb
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.dll
+c:\users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.pdb
+C:\Users\willian.kirsch\documents\visual studio 2017\Projects\Produtos\Produtos\obj\Debug\netcoreapp1.1\Produtos.csprojResolveAssemblyReference.cache
